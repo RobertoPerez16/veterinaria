@@ -1,0 +1,20 @@
+.titulo{
+    text-align: center;
+    margin-top: 25px;
+    font-size: 37px;
+    font-weight: 500;
+    color: white;
+    text-shadow: black 7px 7px 10px;
+}
+
+form{
+    margin-top: 20px;
+    width: 600px;
+    height: 350px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+body{
+    background: #4C8BEC;
+}
